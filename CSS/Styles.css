@@ -1,0 +1,175 @@
+body {
+font-family: "Montserrat";
+}
+.Title_image {
+  width: 90%;
+
+  border-radius: 100%;
+  position: absolute;
+  left: 5rem;
+}
+@media (max-width: 1000px) {
+  .Title_image {
+    width: 80%;
+    padding-top: 1rem;
+    position: static;
+  }
+  .row {
+    text-align: center;
+  }
+}
+/* message */
+#message {
+  /* background-color: #ef8172; */
+  padding: 4% 6%;
+}
+.message-text {
+  color: #grey;
+  /* text-align: center; */
+  /* width: 40%; */
+}
+.message-text1 {
+  font-size: 4.5rem;
+  /* text-align: center; */
+}
+/* Cake Listngs */
+.cake-photo {
+  width: 100%;
+}
+.row {
+  padding: 2% 5%;
+}
+.cake-photo-gallery {
+  padding: 2% 6%;
+}
+h3 {
+  line-height: 1.5;
+}
+.btm {
+
+}
+.btn-width {
+  width: 100%;
+  margin-top: 0.7rem;
+  color: black;
+}
+.imgtext2 {
+  width: 10%;
+  display: inline;
+}
+.download-botton {
+  margin-top: 1.5rem;
+  margin-right: 0.5rem
+}
+.first-h3 {
+  font-family: "Montserrat-black";
+  font-size: 2rem;
+  line-height: 1.5; color: white;
+}
+.fas {
+  color: #ef8172;
+}
+#features {
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+  position: relative;
+}
+#title {
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+.container-fluid {
+  padding: 0% 8%;
+}
+.navbar {
+  padding-left: 2.5rem;
+}
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #000;
+}
+#pricing {
+  padding: 4% 7%;
+}
+.card {
+  text-align: center;
+}
+
+.second-text {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.font-icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.font-icon:hover {
+  color: #ff4c68;
+}
+p {
+  color: #grey;
+}
+/* Testimonial_section */
+#testimonials {
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+h2 {
+  font-size: 3rem;
+  font-family: "Montserrat-Bold";
+  line-height: 1;
+}
+.testimonial-image {
+  width: 15%;
+  bBuy this-radius: 100%;
+  margin: 15px;
+}
+/* Press */
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding: 1.5rem;
+}
+.press_image {
+  width: 40%;
+  border-radius: 30%;
+}
+/* Pricing */
+.pt {
+  line-height: 1;
+}
+/* Footer section */
+#footer {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 7% 15%;
+}
+.footer-text {
+  font-family: "Montserrat-Black";
+  color: #fff;
+  font-size: 2.5rem;
+}
+.ft {
+  margin-left: 20px;
+}
+
+#end-div {
+padding: 6% 10%;
+background-color: #000;
+text-align: center;
+}
+.icon-end {
+  margin: 0 0.7rem 0;
+  color: grey;
+}
+.icon-end:hover {
+  color: blue;
+}
